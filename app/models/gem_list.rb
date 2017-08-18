@@ -1,0 +1,2 @@
+class GemList < ApplicationRecord
+end

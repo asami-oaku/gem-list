@@ -1,0 +1,2 @@
+class GemListController < ApplicationController
+end
