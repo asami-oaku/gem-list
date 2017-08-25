@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class GemListTest < ActiveSupport::TestCase
+class IrohagemTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

@@ -1,0 +1,2 @@
+class Irohagem < ApplicationRecord
+end
